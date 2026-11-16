@@ -1,0 +1,13 @@
+{
+  "n_inscritos_csv": 3933955,
+  "n_presentes_4_provas": 2678264,
+  "N_populacao": 2658763,
+  "n_colunas_csv": 76,
+  "media_mt": 537.3691581732419,
+  "mediana_mt": 525.0999755859375,
+  "desvio_mt": 125.08939899214964,
+  "prop_mulheres": 0.6139520521385321,
+  "prop_escola_publica": 0.788515470553078,
+  "n_escola_respondeu": 1044048,
+  "prop_escola_nao_respondeu": 0.6073181400523476
+}
